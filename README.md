@@ -1,10 +1,10 @@
-## Digitising Black British Histories: Methodological Innovations and Cultural Significance in the GLR Black London Archive
+## Digitising Black British Histories: Methodological Innovations and Cultural Significance in the Black London Archive
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15593675.svg)](https://doi.org/10.5281/zenodo.15593675)
 
 ## Abstract
 
-This paper presents the methodology and findings of the “FIAT/IFTA Save Your Archive: Black Lives” initiative, focusing on the preservation and analysis of the “GLR Black London” audiovisual archive. Employing advanced digitisation of legacy media formats and integrating a Retrieval-Augmented Generation (RAG) architecture into a Media Asset Management (MAM) system, the project enables enhanced access to historically underrepresented narratives of the Black British experience. The material reveals intersecting themes of systemic racism, political activism, cultural production, and social justice. This case study demonstrates how archival interventions can enrich both contemporary discourse and long-term cultural memory.
+This paper presents the methodology and findings of the “FIAT/IFTA Save Your Archive: Black Lives” initiative, focusing on the preservation and analysis of the “Black London” audiovisual archive. Employing advanced digitisation of legacy media formats and integrating a Retrieval-Augmented Generation (RAG) architecture into a Media Asset Management (MAM) system, the project enables enhanced access to historically underrepresented narratives of the Black British experience. The material reveals intersecting themes of systemic racism, political activism, cultural production, and social justice. This case study demonstrates how archival interventions can enrich both contemporary discourse and long-term cultural memory.
 
 **Keywords**: Black British experience, Archival preservation, Digitisation, Media Asset Management, Retrieval-Augmented Generation (RAG), Social justice, Cultural heritage, Audiovisual archives, FIAT/IFTA
 
@@ -14,7 +14,7 @@ This paper presents the methodology and findings of the “FIAT/IFTA Save Your A
 
 The threat of decaying physical media poses a critical risk to marginalised historical narratives. For decades, the lived experiences of Black individuals in Britain have been under-documented or omitted from formal archives (Gyimah, 2024). The “Save Your Archive: Black Lives” initiative addresses this void, offering a methodological and technological intervention to ensure these histories are preserved and made accessible.
 
-This paper focuses on the “GLR Black London” collection, a component of Dr David Dunkley Gyimah’s personal archive, and reflects on the broader implications of digitising and contextualising Black British audiovisual heritage.
+This paper focuses on the “Black London” collection, a component of Dr David Dunkley Gyimah’s personal archive, and reflects on the broader implications of digitising and contextualising Black British audiovisual heritage.
 
 ---
 
@@ -44,7 +44,7 @@ Future iterations will transition to fully open-source components such as `ByteD
 
 ---
 
-## 4. Content Analysis of the GLR Black London Reels
+## 4. Content Analysis of the Black London Reels
 
 The digitised content offers a historically significant, multi-dimensional view of Black life in London between 1991 and 1993.
 
@@ -78,7 +78,7 @@ Thematic patterns emerging from the archive include:
 
 ## 6. Discussion
 
-The GLR Black London collection’s value lies in both content and accessibility. Digitisation converts ephemeral media into durable assets; RAG indexing allows nuanced queries across a corpus previously invisible to researchers.
+The Black London collection’s value lies in both content and accessibility. Digitisation converts ephemeral media into durable assets; RAG indexing allows nuanced queries across a corpus previously invisible to researchers.
 
 Such infrastructure is replicable. By combining ethical archival practice with computational linguistics, this initiative sets a precedent for inclusive digital preservation.
 
