@@ -92,7 +92,7 @@ This work secures and revitalises a critical component of Black British history.
 
 ## References
 
-Gyimah, D. D. (2023). *Black London (BBC GLR 1991–1993): the Importance of a BBC Radio Archive for Black British People and Scholars*. Journal of Radio & Audio Media, 30(2). https://doi.org/10.1080/19376529.2023.2261924
+Gyimah, D. D. (2023). *Black London (1991–1993): the Importance of a BBC Radio Archive for Black British People and Scholars*. Journal of Radio & Audio Media, 30(2). https://doi.org/10.1080/19376529.2023.2261924
 
 Velázquez, J. (2022). *Save Your Archive: Black Lives – Historical Friendships and the King's Men*. Zenodo. https://doi.org/10.5281/zenodo.15045939
 
