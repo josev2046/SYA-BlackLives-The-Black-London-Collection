@@ -1,7 +1,5 @@
 ## Digitising Black British Histories: Methodological Innovations and Cultural Significance in the Black London Archive
 
-[![DOI](https://zenodo.org/badge/995017988.svg)](https://doi.org/10.5281/zenodo.15593674)
-
 ## Abstract
 
 This paper presents the methodology and findings of the “FIAT/IFTA Save Your Archive: Black Lives” initiative, focusing on the preservation and analysis of the “Black London” audiovisual archive. Employing advanced digitisation of legacy media formats and integrating a Retrieval-Augmented Generation (RAG) architecture into a Media Asset Management (MAM) system, the project enables enhanced access to historically underrepresented narratives of the Black British experience. The material reveals intersecting themes of systemic racism, political activism, cultural production, and social justice. This case study demonstrates how archival interventions can enrich both contemporary discourse and long-term cultural memory.
