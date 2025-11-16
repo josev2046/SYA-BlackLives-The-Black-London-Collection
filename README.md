@@ -1,6 +1,6 @@
-## Unlocking the Power of the GLR Black London Collection
+## Unlocking the Power of the Black London Collection
 
-**Abstract:** This paper outlines the evolution of the "FIAT/IFTA Save Your Archive: Black Lives" project, a critical initiative to preserve audiovisual materials documenting the Black British experience. Focusing on the "GLR Black London" collection, we detail the methodology, including retrieval and digitization of obsolete formats into a searchable Media Asset Management (MAM) system, enhanced by Retrieval Augmented Generation (RAG). Our analysis reveals a vibrant historical record encompassing activism, the struggle against systemic racism and discrimination, and cultural identity. 
+**Abstract:** This paper outlines the evolution of the "FIAT/IFTA Save Your Archive: Black Lives" project, a critical initiative to preserve audiovisual materials documenting the Black British experience. Focusing on the "Black London" collection, we detail the methodology, including retrieval and digitization of obsolete formats into a searchable Media Asset Management (MAM) system, enhanced by Retrieval Augmented Generation (RAG). Our analysis reveals a vibrant historical record encompassing activism, the struggle against systemic racism and discrimination, and cultural identity. 
 
 **Keywords:** Black British experience, Archival preservation, Digitization, Media Asset Management, Retrieval Augmented Generation (RAG), Social justice, Cultural heritage, Audiovisual archives, FIAT/IFTA
 
@@ -12,7 +12,7 @@ I was privileged to contribute and lead this project, both as producer and archi
 
 **Methodology:**
 
-My analysis is centred on the seminal "GLR Black London" series, a treasure trove of discussions and interviews primarily concerning the Black British experience. The rigorous methodology, including the meticulous process of retrieving and professionally digitising content from obsolete formats (Beta SP, D1, D2 tapes, and ¼ inch reels), along with meticulous metadata enrichment and Media Asset Management (MAM) system creation, has transformed these vulnerable materials into a fully searchable system. This means invaluable historical records are now accessible, moving from the brink of oblivion to being shareable digital assets for generations to come. The very existence and detail of the preserved content's descriptions from the "GLR Black London" collection serve as tangible evidence of this methodology's successful implementation, signifying that the process has been effectively executed.
+My analysis is centred on the seminal "Black London" series, a treasure trove of discussions and interviews primarily concerning the Black British experience. The rigorous methodology, including the meticulous process of retrieving and professionally digitising content from obsolete formats (Beta SP, D1, D2 tapes, and ¼ inch reels), along with meticulous metadata enrichment and Media Asset Management (MAM) system creation, has transformed these vulnerable materials into a fully searchable system. This means invaluable historical records are now accessible, moving from the brink of oblivion to being shareable digital assets for generations to come. The very existence and detail of the preserved content's descriptions from the "Black London" collection serve as tangible evidence of this methodology's successful implementation, signifying that the process has been effectively executed.
 
 We have now incorporated a Retrieval Augmented Generation (RAG) architecture to enhance search and discovery. RAG offers an intelligent approach to improving AI language models (LLMs). Rather than solely depending on their training data, RAG enables them to consult additional, current information from a distinct knowledge base. This assists the AI in providing more accurate and pertinent responses, particularly for specialised subjects or private data, and diminishes the likelihood of fabrication.
 
@@ -28,9 +28,9 @@ A more detailed illustration of the full prototype is also provided:
 
 While the current prototype still relies on some proprietary components, our intention is to repurpose it fully on open-source libraries, such as ByteDance-Seed/BAGEL-7B-MoT.
 
-**What the "GLR Black London" Reels Reveal:**
+**What the "Black London" Reels Reveal:**
 
-The "GLR Black London" reels offer a vibrant and nuanced historical record, revealing:
+The "Black London" reels offer a vibrant and nuanced historical record, revealing:
 
 * **Political and Social Activism**
     The archives vividly document the ongoing struggle for civil rights and fair representation in the UK. We see discussions on "race equality, immigration rules, and voting rights for immigrants" amidst "rising racism" and "anticipated violence in 1992" (`BL_005`). The echoes of global movements, like the Rodney King case and subsequent London protests (`BL_020`), highlight interconnectedness. Key moments include the appointment of **Herman Ouseley** as the first Black chairman of the Commission for Racial Equality (`BL_009`) and discussions around police "cultural awareness training" (`BL_014`).
@@ -54,12 +54,12 @@ Beyond preservation, the collection offers immense potential for future document
 
 **Conclusion:**
 
-The "Save Your Archive: Black Lives" project, and particularly the accessible content from its "GLR Black London" collection, represents a significant achievement. By diligently retrieving, digitising, and contextualising these vulnerable audio-visual materials, we've not only secured a vital part of Black British heritage but have also provided an indispensable resource for understanding the complexities of Black identity in the UK, the ongoing fight for social justice, and the enduring power of cultural expression. This vital work ensures that the echoes of the past, particularly the voices of those previously unheard within Britain, can resonate powerfully into the future, enriching academic discourse, inspiring new artistic creations, and fostering a more inclusive and informed global society.
+The "Save Your Archive: Black Lives" project, and particularly the accessible content from its "Black London" collection, represents a significant achievement. By diligently retrieving, digitising, and contextualising these vulnerable audio-visual materials, we've not only secured a vital part of Black British heritage but have also provided an indispensable resource for understanding the complexities of Black identity in the UK, the ongoing fight for social justice, and the enduring power of cultural expression. This vital work ensures that the echoes of the past, particularly the voices of those previously unheard within Britain, can resonate powerfully into the future, enriching academic discourse, inspiring new artistic creations, and fostering a more inclusive and informed global society.
 
 ---
 **References:**
 
-Gyimah, D. D. (2023). Black London (BBC GLR 1991-1993) the Importance of a BBC Radio Archive for Black British People and Scholars. Journal of Radio & Audio Media, 30(2). https://doi.org/10.1080/19376529.2023.2261924
+Gyimah, D. D. (2023). Black London (BBC 1991-1993) the Importance of a BBC Radio Archive for Black British People and Scholars. Journal of Radio & Audio Media, 30(2). https://doi.org/10.1080/19376529.2023.2261924
 
 Velázquez, J. (2022). Save Your Archive: Black Lives - Historical Friendships and the King's Men. Zenodo. https://doi.org/10.5281/zenodo.15045939
 
